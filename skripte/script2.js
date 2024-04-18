@@ -8,9 +8,8 @@ price = 19.9;
 discount = 0.1;
 
 var x = 1;
-if(x == 1){
-    x = 2;
-    console.log("x=" + x);
-
+if (x == 1) {
+  x = 2;
+  console.log("x=" + x);
 }
 console.log("a=" + a);
