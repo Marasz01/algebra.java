@@ -1,0 +1,12 @@
+table {
+    border: 2px solid lightcoral;
+}
+
+td {
+    border: 1px dashed blue;
+    color: red;
+}
+
+thead {
+    background-color: greenyellow;
+}
